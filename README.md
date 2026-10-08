@@ -32,6 +32,20 @@ A desktop Rock, Paper, Scissors game built with Java Swing. It features an inter
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+###  Clone the Repository
 ```bash
 git clone [gh repo clone nomiyehh/RockPaperScissors]
+https://github.com/nomiyehh/RockPaperScissors.git
+....bash 
+javac -encoding UTF-8 RockPaperScissorsGUI.java
+java RockPaperScissorsGUI
+
+📂 Project Structure
+├── RockPaperScissorsGUI.java   # Modern Java Swing desktop version
+├── RockPaperScissors.java      # Terminal/console-based version
+├── preview.png                 # Application preview screenshot
+└── README.md                   # Project documentation
+
+📄 License
+This project is open source and available under the MIT License.
+
