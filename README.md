@@ -34,5 +34,28 @@ A desktop Rock, Paper, Scissors game built with Java Swing. It features an inter
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+[git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name](https://github.com/nomiyehh/RockPaperScissors.git)
+├── RockPaperScissorsGUI.java   # Modern Java Swing desktop version
+├── RockPaperScissors.java      # Terminal/console-based version
+├── preview.png                 # Application preview screenshot
+└── README.md                   # Project documentation
+🎮 How to Play
+Click on Rock, Paper, or Scissors at the bottom of the window.
+
+The computer automatically makes its random pick.
+
+The winner is evaluated using standard rules:
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
+
+Review your match statistics in the Round Log on the right.
+
+Click Reset Game anytime to clear all scores and start fresh.
+
+📄 License
+This project is open source and available under the MIT License.
